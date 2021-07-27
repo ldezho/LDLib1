@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LDLib1 (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LDLib1 (from `../`)
+
+EXTERNAL SOURCES:
+  LDLib1:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LDLib1: 61f28f570debfbbb3a36711bb8cdd71810480421
+
+PODFILE CHECKSUM: fbd28928700eba9ca040a524c06bc9d876ad65a5
+
+COCOAPODS: 1.4.0

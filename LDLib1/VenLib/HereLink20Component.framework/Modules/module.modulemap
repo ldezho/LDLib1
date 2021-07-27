@@ -1,0 +1,6 @@
+framework module HereLink20Component {
+  umbrella header "HereLink20Component.h"
+
+  export *
+  module * { export * }
+}

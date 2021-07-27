@@ -1,0 +1,6 @@
+framework module Pods_LDLib1_Tests {
+  umbrella header "Pods-LDLib1_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

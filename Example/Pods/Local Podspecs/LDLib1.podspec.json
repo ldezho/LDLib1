@@ -1,0 +1,23 @@
+{
+  "name": "LDLib1",
+  "version": "0.1.0",
+  "summary": "A short description of LDLib1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ldz/LDLib1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ldz": "lvdezhou@here.link"
+  },
+  "source": {
+    "git": "https://github.com/ldz/LDLib1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LDLib1/Classes/**/*",
+  "vendored_frameworks": "LDLib1/VenLib/HereLink20Component.framework"
+}
